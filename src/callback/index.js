@@ -21,3 +21,5 @@ function prinntDate(dateNow) {
 }
 
 date(prinntDate);
+
+//---------Clase 5------//
